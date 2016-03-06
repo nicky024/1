@@ -1,10 +1,13 @@
-public class Multiply {
-//some code
-//test
-//test2
-//fu
-//heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeyyyy
-//
+public class Multiply{
+
+	public int mult(int x, int y){
+
+		return x*y;
+    }
+}
+
+
+/*
     ░░░░░░░░░▄░░░░░░░░░░░░░░▄░░░░
     ░░░░░░░░▌▒█░░░░░░░░░░░▄▀▒▌░░░
     ░░░░░░░░▌▒▒█░░░░░░░░▄▀▒▒▒▐░░░
@@ -25,9 +28,4 @@ public class Multiply {
     ░░░░░░▀▄▄▄▄▄▄▀▀▀▒▒▒▒▒▄▄▀░░░░░
     ░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▀▀░░░░░░░░
 
-//heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeyyyy
-
-//suppost kenna namlu multiplication.....
-//ma tistax tavdakom -_-
-
-}
+*/

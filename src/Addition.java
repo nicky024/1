@@ -1,7 +1,7 @@
 public class Addition{
 
-	public int Add(int x, int y){
+	public int add(int x, int y){
 
 		return x+y;
-}
+    }
 }
